@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "337854515379",
+    "project_id": "eticaret-cf088",
+    "storage_bucket": "eticaret-cf088.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:337854515379:android:1c8b124db4a811993f48c6",
+        "android_client_info": {
+          "package_name": "com.example.eshop.eshop"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGibXRE3agTPsLQbhcOHdms8BIliAOWB8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
